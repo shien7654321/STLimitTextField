@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "STLimitTextField"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A textfield that can limit the length of the text."
   s.homepage     = "https://github.com/shien7654321/STLimitTextField"
   s.author       = { "Suta" => "shien7654321@163.com" }

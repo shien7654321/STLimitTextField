@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/STLimitTextField.svg?style=flat)](http://cocoapods.org/pods/STLimitTextField)
 
 ## A textfield that can limit the length of the text.
-STLimitTextField is a textfield that can limit the length of the text.
+STLimitTextField is a textfield that can limit the length of the text.You can limit the length of the text or the length of the character.
 
 ## Requirements
 
