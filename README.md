@@ -1,8 +1,9 @@
 # STLimitTextField
 
+[![Language](https://img.shields.io/badge/language-ObjC-limegreen.svg?style=flat)](http://cocoapods.org/pods/STLimitTextField)
+[![Platform](https://img.shields.io/cocoapods/p/STLimitTextField.svg?style=flat)](http://cocoapods.org/pods/STLimitTextField)
 [![Version](https://img.shields.io/cocoapods/v/STLimitTextField.svg?style=flat)](http://cocoapods.org/pods/STLimitTextField)
 [![License](https://img.shields.io/cocoapods/l/STLimitTextField.svg?style=flat)](http://cocoapods.org/pods/STLimitTextField)
-[![Platform](https://img.shields.io/cocoapods/p/STLimitTextField.svg?style=flat)](http://cocoapods.org/pods/STLimitTextField)
 
 ## A textfield that can limit the length of the text.
 STLimitTextField is a textfield that can limit the length of the text. You can limit the length of the text or the length of the character.
